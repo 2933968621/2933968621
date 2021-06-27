@@ -1,5 +1,5 @@
 ### Hi there! I'm a timeline! 👋
- [![Timeline's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=2933968621&show_icons=true&hide_border=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+ [![Timeline's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=2933968621&show_icons=true&hide_border=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
  [![Timeline's GitHub stats](https://github-readme-stats.vercel.app/api?username=2933968621&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
