@@ -4,7 +4,7 @@
 
 I like play:
 A Dance of Fire and Ice
-Counter Strike : Gloval Offensive
+Counter-Strike : Global Offensive
 Left 4 Dead 2
 Stardew Valley
 Minecraft
