@@ -22,7 +22,7 @@ C++(only a little)
 I using tools:
 IDEA
 Eclipse
-Visual Studio 2022
+Visual Studio 2019
 Visual Studio Code
 
 
