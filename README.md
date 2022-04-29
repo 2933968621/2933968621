@@ -2,7 +2,7 @@
  [![Timeline's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=2933968621&show_icons=true&hide_border=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
  [![Timeline's GitHub stats](https://github-readme-stats.vercel.app/api?username=2933968621&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on game cheat
+<!-- - 🔭 I’m currently working on game cheat -->
 <!--
 **2933968621/2933968621** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
