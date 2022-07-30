@@ -5,6 +5,7 @@
 
 [<img height="26" src="https://shields.io/badge/Twitter-ffffff.svg?style=flat-square&logo=twitter" alt="Twitter" />](https://twitter.com/Nep_Timeline)
 [<img height="26" src="https://shields.io/badge/Discord-ffffff.svg?style=flat-square&logo=discord" alt="Discord" />](https://discord.gg/VErtkWM)
+[<img height="26" src="https://shields.io/badge/Telegram-ffffff.svg?style=flat-square&logo=telegram" alt="Telegram" />](https://t.me/nep_timeline)
 
 <!-- - 🔭 I’m currently working on game cheat -->
 <!--
